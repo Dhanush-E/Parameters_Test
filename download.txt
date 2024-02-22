@@ -1,4 +1,4 @@
-acceleration : 1000.00
+acceleration : 354.00
 postion : 0.00
 speed : 0.00
 velocity : 100.00
