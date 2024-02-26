@@ -1,4 +1,4 @@
-acceleration : 797.00
+acceleration : 772.00
 postion : 18.06
-speed : 9.26
-velocity : 100.00
+speed : 8.40
+velocity : 66.20
