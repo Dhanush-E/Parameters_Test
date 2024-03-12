@@ -1,0 +1,4 @@
+acceleration : 1000.00
+postion : 23.31
+speed : 8.32
+velocity : 64.20
